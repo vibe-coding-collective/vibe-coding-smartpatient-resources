@@ -21,6 +21,7 @@ You can read it end-to-end, then treat it as reference. The **[Copy-paste prompt
 - [Going further](#going-further)
 - [Work with us](#work-with-us)
 - [Spec-driven development (AWS/Kiro) notes](spec-driven-development.md)
+- [Advanced Outlook Automation with Copilot](advanced-automation.md)
 
 ---
 
