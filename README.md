@@ -6,6 +6,7 @@ Keep this as your home base. Two focused guides sit alongside it:
 
 - **[Keeping Figma Make on your design system](./design-system-with-figma-make.md)** — the one Florian asked for.
 - **[Exercise bank](./exercise-bank.md)**: small projects related to real challenges at Smartpatient, to keep the momentum going.
+- **[Spec-driven development (AWS/Kiro)](./spec-driven-development.md)**: notes on planning specs before you build, from an AWS talk.
 
 ---
 
@@ -20,6 +21,7 @@ You can read it end-to-end, then treat it as reference. The **[Copy-paste prompt
 - [Glossary](#glossary)
 - [Going further](#going-further)
 - [Work with us](#work-with-us)
+- [Spec-driven development (AWS/Kiro) notes](spec-driven-development.md)
 
 ---
 
