@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="300" viewBox="0 0 940 300" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <rect width="940" height="300" fill="#ffffff"/>
+
+  <!-- chevrons between cards -->
+  <g fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224,138 l12,10 l-12,10"/>
+    <path d="M464,138 l12,10 l-12,10"/>
+    <path d="M704,138 l12,10 l-12,10"/>
+  </g>
+
+  <!-- CARD: Package -->
+  <g>
+    <rect x="5" y="48" width="210" height="196" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+    <rect x="5" y="48" width="210" height="6" rx="3" fill="#2563eb"/>
+    <circle cx="31" cy="82" r="14" fill="#2563eb"/>
+    <text x="31" y="87" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">1</text>
+    <text x="56" y="87" font-size="18" font-weight="800" fill="#0f172a">Package</text>
+    <text x="24" y="122" font-size="12.5" fill="#475569">Code and docs made</text>
+    <text x="24" y="141" font-size="12.5" fill="#475569">portable. Ask the AI for a</text>
+    <text x="24" y="160" font-size="12.5" fill="#475569">README, architecture.md</text>
+    <text x="24" y="179" font-size="12.5" fill="#475569">and decisions.md, then</text>
+    <text x="24" y="198" font-size="12.5" fill="#475569">push to GitHub.</text>
+  </g>
+
+  <!-- CARD: Narrate -->
+  <g>
+    <rect x="245" y="48" width="210" height="196" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+    <rect x="245" y="48" width="210" height="6" rx="3" fill="#2563eb"/>
+    <circle cx="271" cy="82" r="14" fill="#2563eb"/>
+    <text x="271" y="87" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">2</text>
+    <text x="296" y="87" font-size="18" font-weight="800" fill="#0f172a">Narrate</text>
+    <text x="264" y="122" font-size="12.5" fill="#475569">A short human note or</text>
+    <text x="264" y="141" font-size="12.5" fill="#475569">Loom. Your intent, how</text>
+    <text x="264" y="160" font-size="12.5" fill="#475569">far you got, known gaps,</text>
+    <text x="264" y="179" font-size="12.5" fill="#475569">and what you most</text>
+    <text x="264" y="198" font-size="12.5" fill="#475569">want kept.</text>
+  </g>
+
+  <!-- CARD: Frame -->
+  <g>
+    <rect x="485" y="48" width="210" height="196" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+    <rect x="485" y="48" width="210" height="6" rx="3" fill="#2563eb"/>
+    <circle cx="511" cy="82" r="14" fill="#2563eb"/>
+    <text x="511" y="87" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">3</text>
+    <text x="536" y="87" font-size="18" font-weight="800" fill="#0f172a">Frame</text>
+    <text x="504" y="122" font-size="12.5" fill="#475569">Name the ask. Prototype</text>
+    <text x="504" y="141" font-size="12.5" fill="#475569">to prove intent, scaffold</text>
+    <text x="504" y="160" font-size="12.5" fill="#475569">to finish, or please</text>
+    <text x="504" y="179" font-size="12.5" fill="#475569">ship it.</text>
+  </g>
+
+  <!-- CARD: Route -->
+  <g>
+    <rect x="725" y="48" width="210" height="196" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+    <rect x="725" y="48" width="210" height="6" rx="3" fill="#2563eb"/>
+    <circle cx="751" cy="82" r="14" fill="#2563eb"/>
+    <text x="751" y="87" text-anchor="middle" font-size="14" font-weight="800" fill="#ffffff">4</text>
+    <text x="776" y="87" font-size="18" font-weight="800" fill="#0f172a">Route</text>
+    <text x="744" y="122" font-size="12.5" fill="#475569">Send it through the real</text>
+    <text x="744" y="141" font-size="12.5" fill="#475569">intake. A Jira ticket or the</text>
+    <text x="744" y="160" font-size="12.5" fill="#475569">right Slack channel, not a</text>
+    <text x="744" y="179" font-size="12.5" fill="#475569">hallway ask.</text>
+  </g>
+
+  <!-- outcome line -->
+  <text x="470" y="280" text-anchor="middle" font-size="13.5" font-style="italic" fill="#475569">The engineer reviews, hardens and integrates, instead of rebuilding from zero.</text>
+</svg>

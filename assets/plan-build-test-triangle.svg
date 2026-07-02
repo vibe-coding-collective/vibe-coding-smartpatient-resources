@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="420" viewBox="0 0 480 420" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ah" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect width="480" height="420" fill="#ffffff"/>
+
+  <!-- directed cycle arrows (clockwise) -->
+  <g fill="none" stroke="#64748b" stroke-width="2.5">
+    <path d="M270,137 Q341,190 362,275" marker-end="url(#ah)"/>
+    <path d="M338,320 Q240,354 142,320" marker-end="url(#ah)"/>
+    <path d="M118,275 Q139,190 210,137" marker-end="url(#ah)"/>
+  </g>
+
+  <!-- center hint -->
+  <text x="240" y="238" text-anchor="middle" font-size="13" font-style="italic" fill="#94a3b8">keep</text>
+  <text x="240" y="255" text-anchor="middle" font-size="13" font-style="italic" fill="#94a3b8">looping</text>
+
+  <!-- PLAN -->
+  <circle cx="240" cy="92" r="54" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="240" y="98" text-anchor="middle" font-size="19" font-weight="800" letter-spacing="1" fill="#1d4ed8">PLAN</text>
+  <text x="240" y="170" text-anchor="middle" font-size="12.5" fill="#475569">write the spec, one feature at a time</text>
+
+  <!-- BUILD -->
+  <circle cx="392" cy="320" r="54" fill="#fffbeb" stroke="#d97706" stroke-width="2.5"/>
+  <text x="392" y="326" text-anchor="middle" font-size="19" font-weight="800" letter-spacing="1" fill="#b45309">BUILD</text>
+  <text x="392" y="396" text-anchor="middle" font-size="12.5" fill="#475569">let the AI make it</text>
+
+  <!-- TEST -->
+  <circle cx="88" cy="320" r="54" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2.5"/>
+  <text x="88" y="326" text-anchor="middle" font-size="19" font-weight="800" letter-spacing="1" fill="#6d28d9">TEST</text>
+  <text x="88" y="396" text-anchor="middle" font-size="12.5" fill="#475569">try the unhappy paths</text>
+</svg>
