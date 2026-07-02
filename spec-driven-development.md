@@ -1,6 +1,6 @@
 # Spec-Driven Development (AWS/Kiro)
 
-Notes from an AWS talk on spec-driven development (SDD) with AI coding assistants.
+AWS on spec-driven development (SDD) with AI coding assistants.
 
 ## Core Philosophy
 
