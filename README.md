@@ -4,7 +4,7 @@ The take-home from our session on **3 July 2026**. Not the slides and not a reco
 
 Keep this as your home base. Two focused guides sit alongside it:
 
-- **[Keeping Figma Make on your design system](./design-system-with-figma-make.md)** — the one Florian asked for.
+- **[Keeping Figma Make on your design system](./design-system-with-figma-make.md)**.
 - **[Exercise bank](./exercise-bank.md)**: small projects related to real challenges at Smartpatient, to keep the momentum going.
 
 ---
