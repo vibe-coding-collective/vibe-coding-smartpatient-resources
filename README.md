@@ -19,9 +19,10 @@ You can read it end-to-end, then treat it as reference. The **[Copy-paste prompt
 - [Safety & security in your world](#safety--security-in-your-world)
 - [Glossary](#glossary)
 - [Going further](#going-further)
-- [Work with us](#work-with-us)
 - [Spec-driven development (AWS/Kiro) notes](spec-driven-development.md)
 - [Advanced Outlook Automation with Copilot](advanced-automation.md)
+- [Work with us](#work-with-us)
+
 
 ---
 
